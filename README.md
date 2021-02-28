@@ -1,10 +1,10 @@
 # Folder Belajar
 
-Folder ini berisi tentang hasil belajar dari 7 bahasa pemrogramman yang sedang saya pelajari setiap harinya.
+Folder ini berisi tentang hasil belajar dari 7 bahasa pemrograman yang sedang saya pelajari setiap harinya.
 
-Isinya hanya perbandingan syntax dari berbagai bahasa pemrogramman, dan bukan **tutorial**
+Isinya hanya perbandingan syntax dari berbagai bahasa pemrograman, dan bukan **tutorial**
 
-## Bahasa pemrogramman yang digunakan
+## Bahasa pemrograman yang digunakan
 
 1. C++
 2. Dart
