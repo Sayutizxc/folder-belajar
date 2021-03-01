@@ -14,7 +14,8 @@ Isinya hanya perbandingan syntax dari berbagai bahasa pemrograman, dan **bukan t
 6. PHP
 7. Python
 
-| HARI | KETERANGAN                                                                                  |
-| ---- | ------------------------------------------------------------------------------------------- |
-| 1    | Menampilkan output(Print) ke console                                                        |
-| 2    | Deklarasi variabel, Menerima input dari console, switch-case, if-else, for, while, do-while |
+| HARI | KETERANGAN                                                                                              |
+| ---- | ------------------------------------------------------------------------------------------------------- |
+| 1    | Menampilkan output(Print) ke console                                                                    |
+| 2    | Deklarasi variabel, Menerima input dari console, switch-case, if-else, for, while, do-while             |
+| 3    | Membuat fungsi void dengan parameter dan tanpa parameter, serta membuat fungsi yang mengembalikan nilai |
